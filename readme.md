@@ -2,11 +2,11 @@
 
 ## API del Sistema de Gestión de Incidencias en Salud SGiS
 
-[![Build Status](https://travis-ci.org/Luisvl13/API-SGiS.svg?branch=master)](https://travis-ci.org/Luisvl13/API-SGiS)
+[![Build Status](https://travis-ci.org/EL-BID/API-SGiS.svg?branch=master)](https://travis-ci.org/EL-BID/API-SGiS)
 
 ### Descripción y contexto
 ---
-Salud Mesoamérica, ME-G1001 & ME-G1004
+[Salud Mesoamérica, ME-G1004](https://www.iadb.org/en/project/ME-G1004 )
 
 Una de las prioridades de la Secretaría de Salud del Estado de Chiapas es tener herramientas para implementar acciones que permitan el acceso de las mujeres a los servicios obstétricos, a fin de reducir la muerte materna y neonatal; Por lo tanto, la creación de SGiS, es una estrategia para fortalecer la sistematización en atención de referencias, respuesta de urgencias, emergencias obstétricas y neonatales; cada unidad hospitalaria será la central de información; encargada de gestionar a pacientes en salud maternal, desde el monitoreo, registro y seguimiento de las incidencias; los procesos serán controlados a través de SGiS, estos para coordinar la red de servicios a fin de brindar una atención resolutiva a los usuarios dentro del menor tiempo posible.
 
@@ -17,11 +17,11 @@ La arquitectura REST es muy útil para construir un cliente/servidor para aplica
 ### Guía de usuario
 ---
 
-![Configuracion Header para Login desde postman](https://github.com/Luisvl13/API-SGiS/blob/master/public/img/LoginHeader.png)
+![Configuracion Header para Login desde postman](https://github.com/EL-BID/API-SGiS/blob/master/public/img/LoginHeader.png)
 
-![Login desde postman](https://github.com/Luisvl13/API-SGiS/blob/master/public/img/LoginUser.png)
+![Login desde postman](https://github.com/EL-BID/API-SGiS/blob/master/public/img/LoginUser.png)
 
-![Listar unidades medicas](https://github.com/Luisvl13/API-SGiS/blob/master/public/img/ListaUnidadesMedicas.png)
+![Listar unidades medicas](https://github.com/EL-BID/API-SGiS/blob/master/public/img/ListaUnidadesMedicas.png)
 
 ### Guía de instalación
 ---
@@ -92,7 +92,7 @@ Si deseas contribuir con este proyecto, por favor lee las siguientes guías que 
 
 ### Código de conducta 
 ---
-Puedes ver el código de conducta para este proyecto en el siguiente archivo [CODEOFCONDUCT.md](https://github.com/Luisvl13/API-SGiS/blob/master/CODEOFCONDUCT.md).
+Puedes ver el código de conducta para este proyecto en el siguiente archivo [CODEOFCONDUCT.md](https://github.com/EL-BID/API-SGiS/blob/master/CODEOFCONDUCT.md).
 
 ### Autor/es
 ---
@@ -100,15 +100,16 @@ Puedes ver el código de conducta para este proyecto en el siguiente archivo [CO
 * **[Ramiro Gabriel Alférez Chavez](mailto:ramiro.alferez@gmail.com "Correo electrónico")**
 * **[Eliecer Ramirez Esquinca](https://github.com/checherman "Github")**
 * **[Javier Alejandro Gosain Díaz](https://github.com/goraider "Github")**
+* **Margarita Sariñana Ortiz** - Secretaria de Salud del Estado de Chiapas ISECH
 
 ### Información adicional
 ---
 Para usar el sistema completo con una interfaz web y no solo realizar las peticiones HTTP REST, debe tener configurado el siguiente proyecto:
-* **[Cliente WEB SGiS](https://github.com/goraider/cliente_SGiS "Proyecto WEB que complenta el sistema")**
+* **[Cliente WEB SGiS](https://github.com/EL-BID/CLIENTE-SGiS "Proyecto WEB que complementa el sistema")**
 
 ### Licencia 
 ---
-La Documentación de Soporte y Uso del software se encuentra licenciada bajo Creative Commons IGO 3.0 Atribución-NoComercial-SinObraDerivada (CC-IGO 3.0 BY-NC-ND)  [LICENSE.md](https://github.com/Luisvl13/API-SGiS/blob/master/LICENSE.md)
+La Documentación de Soporte y Uso del software se encuentra licenciada bajo Creative Commons IGO 3.0 Atribución-NoComercial-SinObraDerivada (CC-IGO 3.0 BY-NC-ND)  [LICENSE.md](https://github.com/EL-BID/API-SGiS/blob/master/LICENSE.md)
 
 ## Limitación de responsabilidades
 
